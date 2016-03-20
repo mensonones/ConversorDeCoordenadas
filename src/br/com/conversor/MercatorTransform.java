@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.clycia;
+package br.com.conversor;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
