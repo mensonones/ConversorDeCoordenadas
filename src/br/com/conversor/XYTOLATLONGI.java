@@ -23,7 +23,7 @@ public class XYTOLATLONGI {
     private static String longi;
     
     
-    public static void ProcessaArquivo() throws IOException{
+    public static void processaArquivo() throws IOException{
     String linha = null;
         
      
@@ -93,7 +93,7 @@ public class XYTOLATLONGI {
             
         } 
     public static void main(String...args) throws IOException{
-        ProcessaArquivo();
+        processaArquivo();
 }
     }
 
