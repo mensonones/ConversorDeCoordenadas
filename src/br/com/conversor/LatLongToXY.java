@@ -21,8 +21,8 @@ import javax.swing.JOptionPane;
  * E-mail: mensones.1@gmail.com
  */
 public class LatLongToXY {
-    static String lati;
-    static String longi;
+    String lati;
+    String longi;
     
     
     public static void ProcessaArquivo(){
