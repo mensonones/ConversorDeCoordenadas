@@ -31,11 +31,8 @@ package br.com.conversor;
  * @author Eike
  */
 public final class WGS84 {
-
-	private WGS84() {
-	}
-
-	/**
+    
+    /**
 	 * Equatorial radius of earth is required for distance computation.
 	 */
 	public static final double EQUATORIALRADIUS = 6378137.0;
@@ -49,6 +46,11 @@ public final class WGS84 {
 	 * The flattening factor of the earth's ellipsoid is required for distance computation.
 	 */
 	public static final double INVERSEFLATTENING = 298.257223563;
+
+	private WGS84() {
+	}
+
+	
 
 }
 
