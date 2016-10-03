@@ -25,7 +25,7 @@ public class LatLongToXY {
     String longi;
     
     
-    public static void ProcessaArquivo(){
+    public static void processaArquivo(){
     String linha = null;
         
         try {
@@ -95,7 +95,7 @@ public class LatLongToXY {
     }
     public static void main(String...args){
         
-        ProcessaArquivo();
+        processaArquivo();
         
     }
 }
