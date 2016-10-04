@@ -3,6 +3,4 @@ machine:
    version: oraclejdk8
 
 
-test:
-    post:
-        - mvn clean install
+
