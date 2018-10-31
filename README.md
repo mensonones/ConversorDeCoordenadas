@@ -30,3 +30,4 @@ As coordenadas de latitude e longitude precisam estar no formato: -00.000000;-00
 Emerson Vieira – mensones.1@gmail.com 
 
 Distribuído sob a licensa MIT. Ver ``LICENSE`` para mais detalhes.
+
