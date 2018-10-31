@@ -1,5 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee37d023e1684aab959cc71bc0b51f53)](https://www.codacy.com/app/mensones-1/ConversorDeCoordenadas?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mensonones/ConversorDeCoordenadas&amp;utm_campaign=Badge_Grade) 
-
 [![CircleCI](https://circleci.com/gh/mensonones/ConversorDeCoordenadas.svg?style=svg)](https://circleci.com/gh/mensonones/ConversorDeCoordenadas)
 
 # Conversor De Coordenadas
